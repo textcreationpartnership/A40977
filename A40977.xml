@@ -1,0 +1,472 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Fatall feasts, or, Gods finger upon the wall appearing at the great thanksgiving festivall (upon Cains slaughter of his brother Abel) solemnized by the generall, army, Parliament, councell of state and city of London, at Grocers-hall, June the 7, 1649.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40977</idno>
+            <idno type="STC">Wing F543</idno>
+            <idno type="STC">ESTC R39528</idno>
+            <idno type="EEBO-CITATION">18426384</idno>
+            <idno type="OCLC">ocm 18426384</idno>
+            <idno type="VID">107610</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40977)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107610)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1632:53)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Fatall feasts, or, Gods finger upon the wall appearing at the great thanksgiving festivall (upon Cains slaughter of his brother Abel) solemnized by the generall, army, Parliament, councell of state and city of London, at Grocers-hall, June the 7, 1649.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: slightly faded.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conscience, Examination of.</term>
+               <term>Christian ethics.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107610:1" rendition="simple:additions"/>
+            <p>THE FATALL FEASTS, OR <hi>GODS Finger upon the WALL,</hi> Appearing At the great thankſgiving Feſtivall (upon <hi>Cains</hi> ſlaugh<g ref="char:EOLhyphen"/>ter of his Brother <hi>Abe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>) Solemnized by the Generall, Army, Parliament, Councell of State and City of <hi>London,</hi> at <hi>Grocers-hall</hi> June the 7. 1649.</p>
+            <q>
+               <bibl>DANIELL 5 25, 26, 27, 28.</bibl>
+               <p>In the ſame hour came forth fingers of a Mans hand, and wrot over againſt the Candleſticks upon the plaiſter of the Wall—.</p>
+               <p>
+                  <hi>And this is the writing that was w<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itten.</hi>
+                  <lb/>
+                  <q>MENE MENE TEKEL PERES.</q>
+               </p>
+               <p>God hath numbred thy Kingdom and finiſhed it, thou art weighed in the Ballances, and found wanting.</p>
+               <p>Thy Kingdom is divided, and given to the <hi>Medes</hi> and <hi>Perſians (to wit For<g ref="char:EOLhyphen"/>raigne Nations.)</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>G<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. 4.11, 12.</bibl>
+               <p>And now thou art Curſed from the earth, which hath opened her mouth to receive thy Brothers blood from thy hand.</p>
+               <p>— A fugative and a vagabond ſhalt tho<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be in the Earth.</p>
+            </q>
+            <p>He that readeth and conſidereth, ſhall find it no FABLE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, in the Yeare of our LORD, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:107610:2"/>
+            <pb facs="tcp:107610:2" rendition="simple:additions"/>
+            <head>The Fatal Feaſts.</head>
+            <p>THe rule of equity planted by God in every mans Conſcience is ſo ſtrong and vigorous, that in ſpight of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſtouteſt and ſtrongeſt h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arted man, it continually and undauntedly <hi>accuſes or excuſes him,</hi> to his face, in publick, in private, in afflictions, in <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g, in feaſting, according as he <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ket<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; peaketh or practiſeth, good or evil, in ſincerity or in hypocri<g ref="char:EOLhyphen"/>ſy; ſo as he continually heareth from within himſelf, and that ſo loudly too, as drowneth all the acclamation of flatterers; the noiſe of 10000 drums and trumpets, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o nor all the O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dinance upon a feaſting day can <hi>out-roar</hi> this i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ward v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yce; <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the midſt of all jollity, noyſe, muſick, dalliance, it will be heard: Proclamations of Kings, Declarations, V<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tes of P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rliament, cryes of Cities, P<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ple, Nations ar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ares o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, if once offended.</p>
+            <p>A moſt bleſſed a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d up<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ht Judge it is, judging impartially of the action and intention, accor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>q<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtionable rule of Gods juſtice: So that thou (who ever th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u art that haſt thriven and proſpered in thy wickedn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs, and haſt do<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e it up<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ſuch plauſible pretences as might and doth often dec<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>very El<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct:</hi> pl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad thy ſucceſs unto thy conſcience, and tell thy conſcience (as thou <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to do thy ignorant flattering and timerous hear<g ref="char:EOLhyphen"/>ers) that he that is the Lord <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Hoaſts, the God of battels hath given teſt in o<g ref="char:EOLhyphen"/>ny on thy ſide by many conti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uall, ev<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n miraculous victories; and it will immediatly tell thee; <hi>Cain</hi> after he had ſl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in his innocent brother <hi>Abell,</hi> might as juſtly have u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ged the ſame argument in his juſtification.</p>
+            <p>No, if thou wilt live in peace with G<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and hold friendſhip with thine own Conſcience, th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u muſt neither regard ſucceſs, nor the acclamations of fl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rers, not the appro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation of preachers nor the acceptation or rejoycings or feaſtings of p<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ple; but b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore thou act or do any thing, inquire the mind of God in his holy word, and take councel then of thine own conſcience, and accordingly act or not <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct, and ſtand clear in thy judgment from all paſ<g ref="char:EOLhyphen"/>ſion and corrupt aff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction in underſtanding what that voice within thee ſpeak<g ref="char:EOLhyphen"/>eth,
+<pb n="4" facs="tcp:107610:3"/>and ſwerve not for thy life or any worldly thing, from that eaſily known and ap<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oved rule of equity, of doing as thou wouldeſt be done unto; if thou doe, aſſure thy ſelf, thou wilt be condemned of thy ſelf; and if thy conſcience <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ondemn thee, God is greater then thy conſcience, and will not aquit thee (<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oaſt thou never ſo much of ſucceſs) ſo everlaſtingly true will that ſaying of God to <hi>Cain</hi> prove in all times and caſes; <hi>If thou doſt evil, ſin lyeth at the doore.</hi>
+            </p>
+            <p>The ſerious conſideration whereof as it is neceſſary for all times, ſo eſpeci<g ref="char:EOLhyphen"/>ally in this time and age we live in, the voice of Gods word and the voice of conſcience being never more neglected, men ſeeming not to regard any thing but the praiſe and approbation of another, and no argument ſo generally uſed for juſtifiing mens actions, yea of war, of killing and ſlaying of men of all ſorts, yea of pious religious known friends, as <hi>ſucceſs and proſperity in the un<g ref="char:EOLhyphen"/>dertaking.</hi>
+            </p>
+            <p>And therefore it may prove good counſel to all ſorts of men, yea the higheſt, ſtrongeſt and moſt ſuccesful, timely to hearken and give good heed to the voice of their own conſciences, and to marke in all ages how conſcience workes, and how ſurely the judgements and vengeance of God followes all ſuch as make ſleight of that rule of equity he hath therein planted.</p>
+            <p>God is the ſearcher and tryer of the Reines, a moſt exact obſerver of mens intentions, holding perpetuall intelligence with the conſcience of every man, <hi>Conſcience being Gods agent.</hi>
+            </p>
+            <p>Obſerve how God and Conſcience workes together with <hi>Cain</hi> and <hi>Abell,</hi> and ſo work they with all ſorts of men, <hi>Gen.</hi> 4.5. the text ſaith, <hi>Abell was a keeper of ſheep, but Cain was a tiller of the ground;</hi> and they were both ſo Reli<g ref="char:EOLhyphen"/>gious, as they did apply themſelves unto God by way of ſacrifice (a ſacri<g ref="char:EOLhyphen"/>fice of thankſgiving) verſ. 3. <hi>And it came to paſs in proceſs of time, that</hi> Cain <hi>brought of the fruit of the ground an Offering unto the Lord:</hi> verſ. 4. <hi>And</hi> Abell <hi>he alſo brought of the firſtlings of his flock, and of the fat thereof, and the Lord had reſpect unto</hi> Abell, <hi>and to his Offering; but unto</hi> Cain, <hi>and to his Offering he had no reſpect.</hi> See how God obſerves the reallity of the heart, as the words <hi>And of the fat thereof,</hi> import; <hi>Cain</hi> was meerly formall and in ſhew, <hi>Abell</hi> reall; ſee then how this works on <hi>Cain,</hi> he ſoon diſcerns Gods non-accep<g ref="char:EOLhyphen"/>tance, which ſhould have wrought his repentance; now he ſwels againſt the light of his own Conſcience, and was <hi>very wroth, and his countenance fell;</hi> Conſcience diſturbs him, <hi>verſ.</hi> 6. <hi>And the Lord ſaid unto Cain, why art thou wrath? and why is thy countenance fallen? If thou doſt well, ſhalt thou not be accepted? and if thou doſt not well, ſin lyeth at the door:</hi> (thy Conſcience will be ſure to tell thee of it) <hi>verſ.</hi> 8. <hi>And</hi> Cain <hi>TALKED with</hi> Abell <hi>his bro<g ref="char:EOLhyphen"/>ther, and being in the fieild together ſlew him;</hi> it is probable under colour of
+<pb n="5" facs="tcp:107610:3" rendition="simple:additions"/>Treaty and friendſhip; never was cauſe more unjuſt, yet ſtrength and inju<g ref="char:EOLhyphen"/>ſtice prevailes, and might be juſtified, if ſucceſs were a good argument with God or Conſcience.</p>
+            <p>But ſee how God and conſcience follow him, <hi>thy Brothers Bloud</hi> ſaith God <hi>cryeth unto me from the ground, thou art curſed from the earth, a fugitive and a vagabond ſhalt thou be in the earth:</hi> And <hi>Cains</hi> conſcience echoes to the Lord, forcing him to cry out, <hi>My puniſhment is greater then I can bear: And from thy face ſhall I be hid, and I ſhall be a fugitive and a vagabond in the earth: And it ſhall come to paſſe, that every one that findeth me ſhall ſlay me:</hi> Now conſcience enforces him to acknowledge that never failing rule of equity, <hi>what mea<g ref="char:EOLhyphen"/>ſure thou hast met unto others ſhall be met unto thee again;</hi> though when time was, he could not prevail with him <hi>to doe as he would be done unto.</hi>
+            </p>
+            <p>And though this be the way of God in all ages, yet ſtill vaine man renoun<g ref="char:EOLhyphen"/>ces the cleer judgment of God in his own conſcience, goeth on in wayes of blood, cruelty and injuſtice, and if God immediately take not vengeance, he addes iniquity to iniquity, and boaſts that God by ſucceſſe haah given cleer teſtimony of the righteouſneſſe of his cauſe, of the equity of his proceedings, and in effect, that <hi>Cain</hi> is more righteous then <hi>Abel,</hi> becauſe <hi>Cain</hi> was too ſtrong and too politique and ſlew him.</p>
+            <p>But this is ſo deceitfull a way of judging, as it is wonderfull, a time admit<g ref="char:EOLhyphen"/>ting the leaſt dram of Chriſtian knowledg, ſhould admit; The experience of all times, ages, places, perſons, evidencing the weakneſſe or wickedneſſe there<g ref="char:EOLhyphen"/>of: <hi>I ſaw</hi> (ſaith David) <hi>the wicked flouriſh, but I looked, and behold his place was no more to be ſeen;</hi> fatall are the rejoycings of the hypocrites, and of the man that purſueth the righteous unto blood.</p>
+            <p>What greater wickedneſſe can there be in the earth, then for a man to hate his Brother becauſe God loves him? to hate him to the death, becauſe he offers unto God a more acceptable ſacrifice; becauſe his heart is more cleer and more large in thankefulneſſe unto God for his extraordinary fa<g ref="char:EOLhyphen"/>vours.</p>
+            <p>Yet this is the caſe betwixt men that have long time lived together as bre<g ref="char:EOLhyphen"/>thren in theſe times, men that have been boſome friends, children of one cauſe, made dear unto each other by mutuall obligations of love, of friendſhip, and of defence, carrying their lives and their ſtrength in their hands more for others ſafeties then for themſelves; yet now in proceſſe of time that they have been at Peace, and have gotten ſheep to keep, and land to till, ſhame in ſome, and conſcience in others importunes for ſacrifices of thankſgiving unto the Lord of Hoſts that hath preſerved them, and given them ſtrength to goe through with ſo many victories.</p>
+            <p>The effects of ſhame produce leane ſacrifices; thoſe that when they were
+<pb n="6" facs="tcp:107610:4"/>in the ſtorme and doubtfull how to get forth, that promiſed mountains of free<g ref="char:EOLhyphen"/>dom and redreſſe of grievances to the people in thankfulneſſe to God, are no ſooner out of the Storme, but Mole-hils a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> great m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tters with theſe our firſt-born Officers: And becau<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e our well meaning <hi>Abels</hi> are mindfull what they promiſed, what the poor people that ſtuck to them deſerve, and in conſcience and thankfulneſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to God off<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r now <hi>the fi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtlings of their fl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cks</hi> (the beſt they can imagine) <hi>and of the fat,</hi> the pu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt of the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r love, and thinke the utmoſt of their freedome, and the rem<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vall of all gri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vances, and that for ever by an <hi>A<g ref="char:EOLhyphen"/>greement of the People</hi> littl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nough in lieu of ſo great merci<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, ſo large and fair opportuniti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of doing good.</p>
+            <p>B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cauſe God manif<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſts his accep<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce unto the ſacrifice of thoſe innocent <hi>Abels,</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> T<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtimony of all u<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>el<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh men, increaſing their num<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers conti<g ref="char:EOLhyphen"/>nually, and manif<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſts his di<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct to thoſe <hi>Cains</hi> and their <hi>Musty-<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffering,</hi> by the Generall complaints of all goo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-hearted people.</p>
+            <p>Our <hi>Cains</hi> grew v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry wroth, and their countenance fell, and the Lord ſaid un<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o them by his faithfull Servant Maſter <hi>Sal<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>marſh; Why are yee wroth, and why are your coun<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enanc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s fall<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>? if you doe well and performe your promiſes and e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gem<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nts to the people, your conſcien<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es cannot witneſſe agai<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st you, ſhall you not be a<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>epta<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> both of God and man? but if you doe evil, if you break all promiſes and engagem<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nts with all ſorts of people as yee have done, and now thinke to fl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tter God and man with crying <hi>Corban,</hi> with ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tting dayes apart to faſt in, and to hang down the head for a da<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> like a B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lruſh; Nay, to give no more to the Na<g ref="char:EOLhyphen"/>tion <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or all the bloud and miſery it hath ſuff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red, but a Bulruſh but the ſhad<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w of Freedom and eaſe of Burthens; nor to render no more honour to God for all his mer<g ref="char:EOLhyphen"/>cies, but to ſet up your ſelves in t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e places <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thoſe you have removed with the price of oth<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s bloud: If you doe this evill, know then</hi> (ſaith he) <hi>ſinne lyeth at the door, and the Judg<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment of God ſhall purſue you as it did</hi> Cain; <hi>yee ſhall in time be caſt out as un<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>vory ſalt that hath loſt its ſaltn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe, the love of God, and the aff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction of the peopl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhall forſake you, and the feare of</hi> Cain <hi>ſhall be upon you, you ſhall be a<g ref="char:EOLhyphen"/>fraid of your ſelves, and thoſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that a<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> neereſt to you; and though ye may prevaile against ſome of the <hi>Abels</hi> and ſl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y them, yet in time yee ſhall be as vagabonds and runagates upon the earth, and your conſciences ſhall tell you continually, that it ſha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l come to paſſe, that every one that is neer you, ſhall ſlay you, every one that findeth your deluſion ſhall deſtroy you.</hi>
+            </p>
+            <p>But though God by him in effect told them long ſince thus much; yea, and though already they have found much of it come to paſſe; yet all this and more hath but hardened the hearts of all our <hi>Cains;</hi> nor would they give eare to the voice either of God, his ſervants, or their own conſciences, but with <hi>Ahab</hi> they have ſold themſelves to worke wickedneſſe.</p>
+            <p>They have <hi>TALKED</hi> with thoſe <hi>Abels,</hi> they have flattered them, they have
+<pb n="7" facs="tcp:107610:4" rendition="simple:additions"/>
+               <hi>taken them out-into the field</hi> upon renewed promiſes, and renewed repentan<g ref="char:EOLhyphen"/>ces, they have made them a Game, a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntured their lives in their defence; but all this in treachery, and now at length in proceſſe of time its come to paſſe that <hi>thoſe Cains aroſe againſt thoſe Ab<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls, in time of Treaty, and to<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k them, and murthered them.</hi>
+            </p>
+            <p>And having done, hand joynes in hand, and as before a <hi>Jeſabels F<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſt</hi> was proclaimed, and men of <hi>B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lial</hi> hired to ſweare, thoſe <hi>Abels,</hi> and <hi>Nabot<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> ſough<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to deſtroy all R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ligion and to levell all mens eſtates: ſo having killed and taken poſſeſſion, their conſcienc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s are yet more dead then <hi>Cains;</hi> they ha<g ref="char:EOLhyphen"/>ving notice that thoſe <hi>Abels</hi> and <hi>Naboths</hi> were ſto<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed and dead, theſe <hi>Jeſabels</hi> worſe then <hi>Cains,</hi> ſaid to <hi>Ahab</hi> their confederates, <hi>Come let us riſe and take poſ<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſion, let us eat, drinke, and be merry, let us Proclaime a day of Thanksgi<g ref="char:EOLhyphen"/>ving.</hi>
+            </p>
+            <p>Almighty God who hath owned our cauſe, and given teſtimony againſt theſe Atheiſts, theſe Levellers, as he hath done againſt other enemies by giving us <hi>Succeſſe,</hi> the undoubted teſtimony of his approbation; he hath bleſſed our perfidiouſneſſe, our cruelty and our murthering of our Brothers, as he bleſſed <hi>Cain</hi> againſt <hi>Abel</hi> his Brother, and <hi>Jeſabel</hi> and <hi>Ahab</hi> againſt <hi>Naboth:</hi> Therefore let us eat our meat with gladneſſe, and drinke our wine with merry hearts, for God now accepteth our facrifice.</p>
+            <p>But being at <hi>Grocers-hall</hi> in the midſt of their Jollity, Pride, and Feaſting, the ſpirit of <hi>Eliah</hi> comes into the Conſciences of theſe <hi>Caines,</hi> with this diſ<g ref="char:EOLhyphen"/>mall Meſſage from the Lord.</p>
+            <p>Haſt thou killed and taken poſſeſſion? (are ye ſo proud and pompered with ſucceſs?) in the place where the dogs licked the blood of <hi>Naboth,</hi> of <hi>Locki<g ref="char:EOLhyphen"/>er</hi> and the reſt; ſhall dogs lick thy blood, even thine O <hi>Faixfax,</hi> and thine O <hi>Crumwel;</hi> and thine, and thine O Parliament, O Councel of State, O Major, O Aldermen, that thus countenance thoſe bloody inhumane and treacherous Monſters, and thine O Officer, and thine O Souldier that wil<g ref="char:EOLhyphen"/>lingly hadſt an hand in ſlaying thy moſt innocent and righteous Brethren, <hi>Abells</hi> and <hi>Naboths,</hi> under the name of Levellers; and I will bring evill upon thee, and will take away thy proſperity, and will cut off from thee him that piſſeth againſt the wall: and thy Feaſts ſhall prove unto the chiefeſt gueſts, as the Earl of Sommerſets Feaſt when he eſpouſed a Strumpet (as ye have done corrupt intereſts) as Buckinghams Feaſt before his fall (againſt whom no complaint could be heard) as the Kings Feaſts at Mayor Freemans, when he had corrupted him (as ye have done this covetous Mayor) to betray the Nations Liberties (calling it the triumph of Peace) he never proſpered after it; The Mayors tongue was cankered and cut out, that had made a falſe report, for white ſope: <hi>Eſſex</hi> was ſo Feaſted, and <hi>Hollis</hi> and his Facton was ſo Feaſt<g ref="char:EOLhyphen"/>ed,
+<pb n="8" facs="tcp:107610:5"/>rejoycing in iniquity, but they are all periſhed and become as the dung of the Earth.</p>
+            <p>Look! look! ſaith conſcience and tremble! ſee you not <hi>Belſhazzar like an hand writing upon the wall!</hi> R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad, what wr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tes it? what ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke ye, ye ſtout<g ref="char:EOLhyphen"/>eſt men of war! fear ye, ye men of greatneſs! <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tart ye ye covetous wretches! what writes it, that ye are ſo much amazed? the thing is truth; your own conſciences will tell you ſo when you woul<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ep; your Kingdom is rent from you, your reign is at an end, your wine i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mingled with innocent blood, and your veniſon is the fl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh of free-born Engliſh-men, and it ſhall breed a Peſtilence among y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that ſhall d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vour you: God will awaken the Conſci<g ref="char:EOLhyphen"/>ences of the upright in the Army and all places, and they ſhall abhor and deteſt you; yea a devouring ſeed ſhall be raiſed up that ſhall tear you in peeces, and there ſhall be none to deliver you; for the very hope of ſuch Hypocrites ſhall rott; after this ſo Impudent, Abominable, Atheiſticall, or blaſphemous Defi<g ref="char:EOLhyphen"/>ance of God: never, never look to proſper; your ſtrength is departed from you, the people hate you, God and your own conſciences muſt be your Ene<g ref="char:EOLhyphen"/>mies; and ye may truly ſay with <hi>Cain, my puniſhment is greater then I can bear. I, and I, and I ſhall be a Fugitive and vagabond upon the Earth, and it ſhall come to paſs, that every one that findeth me, ſhall ſlay me.</hi> So may all thine Enemies periſh O Lord God.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:107610:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
